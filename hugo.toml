@@ -1,0 +1,4 @@
+baseURL = 'https://brucezhang1993.github.io/'
+languageCode = 'zh-cn'
+title = 'Bruceutut Blog'
+theme = 'tailwind'
