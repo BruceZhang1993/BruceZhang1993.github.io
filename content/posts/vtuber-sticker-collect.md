@@ -12,211 +12,211 @@ A-SOUL
 
 一个魂
 
-- https://t.me/addstickers/Asoul_video (Animated)
-- https://t.me/addstickers/Asoul_video_2 (Animated)
-- https://t.me/addstickers/sticker577376314_2_by_luxiaoxun_bot
-- https://t.me/addstickers/ShadowClash_1
-- https://t.me/addstickers/sudo_stickers
-- https://t.me/addstickers/A_SOUL
-- https://t.me/addstickers/Rosmontis_asoul
-- https://t.me/addstickers/ASFunnyMeme_by_fStikBot
+- [Asoul_video)](tg://addstickers?set=Asoul_video)
+- [Asoul_video_2)](tg://addstickers?set=Asoul_video_2)
+- [sticker577376314_2_by_luxiaoxun_bot)](tg://addstickers?set=sticker577376314_2_by_luxiaoxun_bot)
+- [ShadowClash_1)](tg://addstickers?set=ShadowClash_1)
+- [sudo_stickers)](tg://addstickers?set=sudo_stickers)
+- [A_SOUL](tg://addstickers?set=A_SOUL)
+- [Rosmontis_asoul](tg://addstickers?set=Rosmontis_asoul)
+- [ASFunnyMeme_by_fStikBot](tg://addstickers?set=ASFunnyMeme_by_fStikBot)
 
 贝拉
 
-- https://t.me/addstickers/Bella_ASOUL
-- https://t.me/addstickers/bellcher
+- [Bella_ASOUL](tg://addstickers?set=Bella_ASOUL)
+- [bellcher](tg://addstickers?set=bellcher)
 
 向晚
 
-- https://t.me/addstickers/AvA_xiangwan
-- https://t.me/addstickers/Asoul_video_xiangwan (Animated)
+- [AvA_xiangwan](tg://addstickers?set=AvA_xiangwan)
+- [Asoul_video_xiangwan (Animated)](tg://addstickers?set=Asoul_video_xiangwan (Animated))
 
 嘉然
 
-- https://t.me/addstickers/a_soul_diana
-- https://t.me/addstickers/Diana_JiaRan_VTuber
-- https://t.me/addstickers/Asoul_jiaran_2 (2.0!)
-- https://t.me/addstickers/Asoul_video_jiaran (Animated)
-- https://t.me/addstickers/jiaran
+- [a_soul_diana](tg://addstickers?set=a_soul_diana)
+- [Diana_JiaRan_VTuber](tg://addstickers?set=Diana_JiaRan_VTuber)
+- [Asoul_jiaran_2 (2.0!)](tg://addstickers?set=Asoul_jiaran_2 (2.0!))
+- [Asoul_video_jiaran (Animated)](tg://addstickers?set=Asoul_video_jiaran (Animated))
+- [jiaran](tg://addstickers?set=jiaran)
 
 珈乐
 
-- https://t.me/addstickers/asouljiale
+- [asouljiale](tg://addstickers?set=asouljiale)
 
 乃琳
 
-- https://t.me/addstickers/asoulnailin
+- [asoulnailin](tg://addstickers?set=asoulnailin)
 
 VirtuaReal
 ====================================
 
 VR信
 
-- https://t.me/addstickers/Bilisticker_56792_by_Enlysure_sticker_bot
+- [Bilisticker_56792_by_Enlysure_sticker_bot](tg://addstickers?set=Bilisticker_56792_by_Enlysure_sticker_bot)
 
 阿梓从小就很可爱
 
-- https://t.me/addstickers/azusa_kawaii
-- https://t.me/addstickers/azusa_up
-- https://t.me/addstickers/azusa_video (Animated)
-- https://t.me/addstickers/AzusaVideoNew (Animated)
-- https://t.me/addstickers/AzusaNew
+- [azusa_kawaii](tg://addstickers?set=azusa_kawaii)
+- [azusa_up](tg://addstickers?set=azusa_up)
+- [azusa_video (Animated)](tg://addstickers?set=azusa_video (Animated))
+- [AzusaVideoNew (Animated)](tg://addstickers?set=AzusaVideoNew (Animated))
+- [AzusaNew](tg://addstickers?set=AzusaNew)
 
 七海Nana7mi
 
-- https://t.me/addstickers/Nana7m1
-- https://t.me/addstickers/Nana7miWechatemoji
-- https://t.me/addstickers/Nana7mi_VirtuaReal
+- [Nana7m1](tg://addstickers?set=Nana7m1)
+- [Nana7miWechatemoji](tg://addstickers?set=Nana7miWechatemoji)
+- [Nana7mi_VirtuaReal](tg://addstickers?set=Nana7mi_VirtuaReal)
 
 小可学妹
 
-- https://t.me/addstickers/KeroVUP
+- [KeroVUP](tg://addstickers?set=KeroVUP)
 
 千鸟_Official
 ====================================
 
 文静千鸟
 
-- https://t.me/addstickers/wenjingqianniao
+- [wenjingqianniao](tg://addstickers?set=wenjingqianniao)
 
 NIJISANJI
 ====================================
 
 Mixup
 
-- https://t.me/addstickers/Nijisanji_2434
+- [Nijisanji_2434](tg://addstickers?set=Nijisanji_2434)
 
 物述有栖
 
-- https://t.me/addstickers/alice_foo_foo
+- [alice_foo_foo](tg://addstickers?set=alice_foo_foo)
 
 Hololive
 ====================================
 
 Mixup
 
-- https://t.me/addstickers/hololive_yt
-- https://t.me/addstickers/HololiveShitpostReaction
-- https://t.me/addstickers/shiropack_by_fStikBot
-- https://t.me/addstickers/Hololive_stickers (Animated)
+- [hololive_yt](tg://addstickers?set=hololive_yt)
+- [HololiveShitpostReaction](tg://addstickers?set=HololiveShitpostReaction)
+- [shiropack_by_fStikBot](tg://addstickers?set=shiropack_by_fStikBot)
+- [Hololive_stickers (Animated)](tg://addstickers?set=Hololive_stickers (Animated))
 
 Gawr Gura
 
-- https://t.me/addstickers/GawrGuraShark
-- https://t.me/addstickers/GuarGura
-- https://t.me/addstickers/GawrGura8c
-- https://t.me/addstickers/gawrguraa
-- https://t.me/addstickers/Gura_por_Mony
-- https://t.me/addstickers/GawrGura2byankhaubivaet_by_fStikBot (Animated)
+- [GawrGuraShark](tg://addstickers?set=GawrGuraShark)
+- [GuarGura](tg://addstickers?set=GuarGura)
+- [GawrGura8c](tg://addstickers?set=GawrGura8c)
+- [gawrguraa](tg://addstickers?set=gawrguraa)
+- [Gura_por_Mony](tg://addstickers?set=Gura_por_Mony)
+- [GawrGura2byankhaubivaet_by_fStikBot (Animated)](tg://addstickers?set=GawrGura2byankhaubivaet_by_fStikBot (Animated))
 
 Project Paryi
 ====================================
 
 花园Serena
 
-- https://t.me/addstickers/sticker610026703_1_by_luxiaoxun_bot
+- [sticker610026703_1_by_luxiaoxun_bot](tg://addstickers?set=sticker610026703_1_by_luxiaoxun_bot)
 
 白雪Aria
 
-- https://t.me/addstickers/Shirayuki_Aria_1_by_luxiaoxun_bot
+- [Shirayuki_Aria_1_by_luxiaoxun_bot](tg://addstickers?set=Shirayuki_Aria_1_by_luxiaoxun_bot)
 
 Project SP (psplive)
 ====================================
 
 星汐Seki
 
-- https://t.me/addstickers/SekiStickers
-- https://t.me/addstickers/SekiVideo (Animated)
+- [SekiStickers](tg://addstickers?set=SekiStickers)
+- [SekiVideo (Animated)](tg://addstickers?set=SekiVideo (Animated))
 
 Other
 ====================================
 
 神楽七奈
 
-- https://t.me/addstickers/kaguranana_bilibili
-- https://t.me/addstickers/littletwainKAGURANANA
-- https://t.me/addstickers/kakuranana
+- [kaguranana_bilibili](tg://addstickers?set=kaguranana_bilibili)
+- [littletwainKAGURANANA](tg://addstickers?set=littletwainKAGURANANA)
+- [kakuranana](tg://addstickers?set=kakuranana)
 
 雫るる
 
-- https://t.me/addstickers/ShizukuLulu_Vtuber
+- [ShizukuLulu_Vtuber](tg://addstickers?set=ShizukuLulu_Vtuber)
 
 星瞳 (Tencent CDD)
 
-- https://t.me/addstickers/xingtong
-- https://t.me/addstickers/xingtong3
+- [xingtong](tg://addstickers?set=xingtong)
+- [xingtong3](tg://addstickers?set=xingtong3)
 
 永雏塔菲
 
-- https://t.me/addstickers/taffy_stickers
-- https://t.me/addstickers/taffynya
+- [taffy_stickers](tg://addstickers?set=taffy_stickers)
+- [taffynya](tg://addstickers?set=taffynya)
 
 呜米
 
-- https://t.me/addstickers/kirakira_umy
+- [kirakira_umy](tg://addstickers?set=kirakira_umy)
 
 咩栗
 
-- https://t.me/addstickers/sheep_merry
+- [sheep_merry](tg://addstickers?set=sheep_merry)
 
 Hirro
 
-- https://t.me/addstickers/Hiiro_2nd_Anniv
-- https://t.me/addstickers/hiiro_vtuber_myadestes
-- https://t.me/addstickers/hirrovtuber (Animated)
+- [Hiiro_2nd_Anniv](tg://addstickers?set=Hiiro_2nd_Anniv)
+- [hiiro_vtuber_myadestes](tg://addstickers?set=hiiro_vtuber_myadestes)
+- [hirrovtuber (Animated)](tg://addstickers?set=hirrovtuber (Animated))
 
 星宫汐
 
-- https://t.me/addstickers/HosimiyaSio
+- [HosimiyaSio](tg://addstickers?set=HosimiyaSio)
 
 桃井最中Monaka
 
-- https://t.me/addstickers/momoimonaka
-- https://t.me/addstickers/MonakaNya2 (Animated)
+- [momoimonaka](tg://addstickers?set=momoimonaka)
+- [MonakaNya2 (Animated)](tg://addstickers?set=MonakaNya2 (Animated))
 
 车雷达
 
-- https://t.me/addstickers/azumaseren_bilibili
-- https://t.me/addstickers/Azuse
+- [azumaseren_bilibili](tg://addstickers?set=azumaseren_bilibili)
+- [Azuse](tg://addstickers?set=Azuse)
 
 木子喵
 
-- https://t.me/addstickers/muzimiao
+- [muzimiao](tg://addstickers?set=muzimiao)
 
 赛小盐 Cyan @cyan_nyan 
 
-- https://t.me/addstickers/cyannyan
-- https://t.me/addstickers/cyannyan_v2_noofficial
-- https://t.me/addstickers/cyannyan_whiteboard
-- https://t.me/addstickers/cyanchan_unofficial
-- https://t.me/addstickers/cyannyan_v3
-- https://t.me/addstickers/SeisoCyanNyan
-- https://t.me/addstickers/cyannyan_linestamp01
+- [cyannyan](tg://addstickers?set=cyannyan)
+- [cyannyan_v2_noofficial](tg://addstickers?set=cyannyan_v2_noofficial)
+- [cyannyan_whiteboard](tg://addstickers?set=cyannyan_whiteboard)
+- [cyanchan_unofficial](tg://addstickers?set=cyanchan_unofficial)
+- [cyannyan_v3](tg://addstickers?set=cyannyan_v3)
+- [SeisoCyanNyan](tg://addstickers?set=SeisoCyanNyan)
+- [cyannyan_linestamp01](tg://addstickers?set=cyannyan_linestamp01)
 
 樱田羽 SakuradaHane
 
-- https://t.me/addstickers/SakuradaHane_MasakiKei_CN
+- [SakuradaHane_MasakiKei_CN](tg://addstickers?set=SakuradaHane_MasakiKei_CN)
 
 Asahi Lina
 
-- https://t.me/addstickers/AsahiLina
-- https://t.me/addstickers/AsahiLinya
+- [AsahiLina](tg://addstickers?set=AsahiLina)
+- [AsahiLinya](tg://addstickers?set=AsahiLinya)
 
 草莓猫Taffy
 
-- https://t.me/addstickers/Taffy_Nekuma
+- [Taffy_Nekuma](tg://addstickers?set=Taffy_Nekuma)
 
 星奈铃
 
-- https://t.me/addstickers/Myadestes_6_HoshinaSuzu
+- [Myadestes_6_HoshinaSuzu](tg://addstickers?set=Myadestes_6_HoshinaSuzu)
 
 七濑Unia
 
-- https://t.me/addstickers/l7Unia
+- [l7Unia](tg://addstickers?set=l7Unia)
 
 猫雷
 
-- https://t.me/addstickers/necora_Twitch
+- [necora_Twitch](tg://addstickers?set=necora_Twitch)
 
 ====================================
 
