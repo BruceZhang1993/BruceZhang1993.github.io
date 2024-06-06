@@ -30,6 +30,7 @@ A-SOUL
 
 - [AvA_xiangwan](tg://addstickers?set=AvA_xiangwan)
 - [Asoul_video_xiangwan (Animated)](tg://addstickers?set=Asoul_video_xiangwan (Animated))
+- [举牌小向晚](tg://addstickers?set=ava_with_boards)
 
 嘉然
 
