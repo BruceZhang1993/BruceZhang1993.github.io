@@ -57,10 +57,10 @@ VR信
 
 阿梓从小就很可爱
 
-- [azusa_kawaii](tg://addstickers?set=azusa_kawaii)
-- [azusa_up](tg://addstickers?set=azusa_up)
-- [azusa_video (Animated)](tg://addstickers?set=azusa_video (Animated))
-- [AzusaVideoNew (Animated)](tg://addstickers?set=AzusaVideoNew (Animated))
+- [阿梓从小就很可爱](tg://addstickers?set=azusa_kawaii)
+- [阿梓从小就很可爱 UP 主大表情 @azusa_channel](tg://addstickers?set=azusa_up)
+- [azusa_video (Animated)](tg://addstickers?set=azusa_video)
+- [AzusaVideoNew (Animated)](tg://addstickers?set=AzusaVideoNew)
 - [AzusaNew](tg://addstickers?set=AzusaNew)
 
 七海Nana7mi
@@ -99,7 +99,7 @@ Mixup
 - [hololive_yt](tg://addstickers?set=hololive_yt)
 - [HololiveShitpostReaction](tg://addstickers?set=HololiveShitpostReaction)
 - [shiropack_by_fStikBot](tg://addstickers?set=shiropack_by_fStikBot)
-- [Hololive_stickers (Animated)](tg://addstickers?set=Hololive_stickers (Animated))
+- [Hololive_stickers (Animated)](tg://addstickers?set=Hololive_stickers)
 
 Gawr Gura
 
@@ -108,7 +108,7 @@ Gawr Gura
 - [GawrGura8c](tg://addstickers?set=GawrGura8c)
 - [gawrguraa](tg://addstickers?set=gawrguraa)
 - [Gura_por_Mony](tg://addstickers?set=Gura_por_Mony)
-- [GawrGura2byankhaubivaet_by_fStikBot (Animated)](tg://addstickers?set=GawrGura2byankhaubivaet_by_fStikBot (Animated))
+- [GawrGura2byankhaubivaet_by_fStikBot (Animated)](tg://addstickers?set=GawrGura2byankhaubivaet_by_fStikBot)
 
 Project Paryi
 ====================================
@@ -127,7 +127,7 @@ Project SP (psplive)
 星汐Seki
 
 - [SekiStickers](tg://addstickers?set=SekiStickers)
-- [SekiVideo (Animated)](tg://addstickers?set=SekiVideo (Animated))
+- [SekiVideo (Animated)](tg://addstickers?set=SekiVideo)
 
 Other
 ====================================
@@ -164,7 +164,7 @@ Hirro
 
 - [Hiiro_2nd_Anniv](tg://addstickers?set=Hiiro_2nd_Anniv)
 - [hiiro_vtuber_myadestes](tg://addstickers?set=hiiro_vtuber_myadestes)
-- [hirrovtuber (Animated)](tg://addstickers?set=hirrovtuber (Animated))
+- [hirrovtuber (Animated)](tg://addstickers?set=hirrovtuber)
 
 星宫汐
 
@@ -173,7 +173,7 @@ Hirro
 桃井最中Monaka
 
 - [momoimonaka](tg://addstickers?set=momoimonaka)
-- [MonakaNya2 (Animated)](tg://addstickers?set=MonakaNya2 (Animated))
+- [MonakaNya2 (Animated)](tg://addstickers?set=MonakaNya2)
 
 车雷达
 
@@ -217,7 +217,7 @@ Asahi Lina
 
 猫雷
 
-- [necora_Twitch](tg://addstickers?set=necora_Twitch)
+- [猫雷にゃる_Twitch @mlzqmlzqmlzq](tg://addstickers?set=necora_Twitch)
 
 ====================================
 
