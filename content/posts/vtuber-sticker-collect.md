@@ -13,10 +13,10 @@ A-SOUL
 一个魂
 
 - [Asoul_video)](tg://addstickers?set=Asoul_video)
-- [Asoul_video_2)](tg://addstickers?set=Asoul_video_2)
+- [Asoul_video_2](tg://addstickers?set=Asoul_video_2)
 - [sticker577376314_2_by_luxiaoxun_bot)](tg://addstickers?set=sticker577376314_2_by_luxiaoxun_bot)
-- [ShadowClash_1)](tg://addstickers?set=ShadowClash_1)
-- [sudo_stickers)](tg://addstickers?set=sudo_stickers)
+- [ShadowClash_1](tg://addstickers?set=ShadowClash_1)
+- [sudo_stickers](tg://addstickers?set=sudo_stickers)
 - [A_SOUL](tg://addstickers?set=A_SOUL)
 - [Rosmontis_asoul](tg://addstickers?set=Rosmontis_asoul)
 - [ASFunnyMeme_by_fStikBot](tg://addstickers?set=ASFunnyMeme_by_fStikBot)
@@ -29,15 +29,15 @@ A-SOUL
 向晚
 
 - [AvA_xiangwan](tg://addstickers?set=AvA_xiangwan)
-- [Asoul_video_xiangwan (Animated)](tg://addstickers?set=Asoul_video_xiangwan (Animated))
+- [Asoul_video_xiangwan (Animated)](tg://addstickers?set=Asoul_video_xiangwan)
 - [举牌小向晚](tg://addstickers?set=ava_with_boards)
 
 嘉然
 
 - [a_soul_diana](tg://addstickers?set=a_soul_diana)
 - [Diana_JiaRan_VTuber](tg://addstickers?set=Diana_JiaRan_VTuber)
-- [Asoul_jiaran_2 (2.0!)](tg://addstickers?set=Asoul_jiaran_2 (2.0!))
-- [Asoul_video_jiaran (Animated)](tg://addstickers?set=Asoul_video_jiaran (Animated))
+- [Asoul_jiaran_2 (2.0!)](tg://addstickers?set=Asoul_jiaran_2)
+- [Asoul_video_jiaran (Animated)](tg://addstickers?set=Asoul_video_jiaran)
 - [jiaran](tg://addstickers?set=jiaran)
 
 珈乐
